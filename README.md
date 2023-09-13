@@ -4,11 +4,6 @@ The project is divided into two phases,
 1. Phase 1: Classical approach of local feature matching
 2. Phase 2: Deep Learning approach(Homography Net - supervised and unsupervised) to estimate the homography.
 
-### Team Members
-
-- Mandeep Singh
-- Chinmay Kate
-
 ## **Phase 1 - Using Classical CV **
 Implemented traditional CV pipeline combines algorithms of corner detection, ANMS, feature extraction,
 feature matching, RANSAC, homography estimation and blending.
@@ -50,17 +45,10 @@ To generate dataset, run the following command in Phase2/Code/supervised: -
 
 ### Supervised Homography
 
-<img src="Phase2/Code/supervised/Results/Supervised.png"  align="center" alt="Undistorted" width="400"/>
-
 #### Result
 
 ##### Training Loss
 <img src="Phase2/Code/supervised/loss.png"  align="center" alt="Undistorted" width="300"/>
-
-##### Input and Output Patch
-<img src="Phase2/Code/supervised/Results/Sample.jpeg"  align="center" alt="Undistorted" width="250"/>
-
-
 
 1. To train the network, run: -
     ```
@@ -73,8 +61,6 @@ To generate dataset, run the following command in Phase2/Code/supervised: -
     ```
 
 ### Unsupervised Homography
-
-<img src="Phase2/Code/unsupervised/Unsupervised.png"  align="center" alt="Undistorted" width="550"/>
 
 1. To train the network, run: -
     ```
