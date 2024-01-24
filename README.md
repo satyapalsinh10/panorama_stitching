@@ -13,26 +13,26 @@ feature matching, RANSAC, homography estimation and blending.
 
 #### Corner Detection and Non Maximal Suppression
 <p align="center">
-  <img src="Phase1/Code/results/Set1/good_featue_to_track.png" alt="Undistorted" width="500"/>
+  <img src="Phase1/Code/results/Set1/good_featue_to_track.png" alt="Undistorted" width="650"/>
 </p>
 
 
 #### Feature Matching
 <p align="center">
-  <img src="Phase1/Code/results/Set1/Feature_matching.png"  align="center" alt="Undistorted" width="500"/>
+  <img src="Phase1/Code/results/Set1/Feature_matching.png"  align="center" alt="Undistorted" width="650"/>
 </p>
 
 
 #### Outlier Rejection using RANSAC
 <p align="center">
-  <img src="Phase1/Code/results/Set1/RAnsac.png"  align="center" alt="Undistorted" width="500"/>
+  <img src="Phase1/Code/results/Set1/RAnsac.png"  align="center" alt="Undistorted" width="650"/>
 </p>
 
 
 #### Warping, Blending and Stitching
 
 <p align="center">
-  <img src="Phase1/Code/results/Set1/Set1.png"  align="center" alt="Undistorted" width="500"/>
+  <img src="Phase1/Code/results/Set1/Set1.png"  align="center" alt="Undistorted" width="650"/>
 </p>
 
 
@@ -64,7 +64,7 @@ To generate the dataset, run the following command in Phase2/Code/supervised: -
 
 ##### Training Loss
 <p align="center">
-  <img src="Phase2/Code/supervised/loss.png"  align="center" alt="Undistorted" width="400"/>
+  <img src="Phase2/Code/supervised/loss.png"  align="center" alt="Undistorted" width="600"/>
 </p>
 
 
